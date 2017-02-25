@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1416041360 source:c:\users\1\desktop\繪圖\main.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+	"work.h"
+	"file.h"
+
+1416040220 c:\users\1\desktop\繪圖\tool.h
+
+1416040220 source:c:\users\1\desktop\繪圖\tool.cpp
+	<windows.h>
+	<stdio.h>
+
+1416040137 source:c:\users\1\desktop\繪圖\work.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+
+1416040765 c:\users\1\desktop\繪圖\space.h
+
+1416040137 c:\users\1\desktop\繪圖\work.h
+
+1416041344 source:c:\users\1\desktop\繪圖\space.cpp
+	<windows.h>
+	<stdio.h>
+
+1416041344 source:c:\users\1\desktop\繪圖\file.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+
+1416040580 c:\users\1\desktop\繪圖\file.h
+
+1416040222 source:e:\繪圖\tool.cpp
+	<windows.h>
+	<stdio.h>
+
+1416041656 source:e:\繪圖\file.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+	"showmap.h"
+
+1416040222 e:\繪圖\tool.h
+
+1417669148 e:\繪圖\space.h
+
+1416041590 e:\繪圖\showmap.h
+
+1417668724 source:e:\繪圖\main.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+	"work.h"
+	"file.h"
+	"showmap.h"
+
+1417668748 e:\繪圖\work.h
+
+1416040582 e:\繪圖\file.h
+
+1417669088 source:e:\繪圖\showmap.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+
+1417669198 source:e:\繪圖\space.cpp
+	<windows.h>
+	<stdio.h>
+
+1417669064 source:e:\繪圖\work.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+	"showmap.h"
+
+1425815723 source:c:\users\123\desktop\繪圖\file.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"tool.h"
+	"space.h"
+	"showmap.h"
+	<ctype.h>
+	"comm.h"
+
+1421762466 c:\users\123\desktop\繪圖\tool.h
+
+1422369263 c:\users\123\desktop\繪圖\space.h
+
+1416041590 c:\users\123\desktop\繪圖\showmap.h
+
+1422371749 source:c:\users\123\desktop\繪圖\main.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+	"work.h"
+	"file.h"
+	<io.h>
+
+1421762236 c:\users\123\desktop\繪圖\work.h
+
+1421235991 c:\users\123\desktop\繪圖\file.h
+
+1417669088 source:c:\users\123\desktop\繪圖\showmap.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+
+1425815752 source:c:\users\123\desktop\繪圖\space.cpp
+	<windows.h>
+	<stdio.h>
+
+1421762490 source:c:\users\123\desktop\繪圖\tool.cpp
+	<windows.h>
+	<stdio.h>
+
+1425816678 source:c:\users\123\desktop\繪圖\work.cpp
+	<stdio.h>
+	<windows.h>
+	"tool.h"
+	"space.h"
+	"showmap.h"
+	"file.h"
+	"forwork.h"
+
+1425812028 source:c:\users\123\desktop\繪圖\事件.cpp
+	<windows.h>
+	<stdio.h>
+	"space.h"
+	"tool.h"
+	"comm.h"
+
+1425815737 source:c:\users\123\desktop\繪圖\字符.cpp
+	<windows.h>
+	<stdio.h>
+	"space.h"
+	"tool.h"
+	"comm.h"
+
+1425811024 source:c:\users\123\desktop\繪圖\手動.cpp
+	<windows.h>
+	<stdio.h>
+	"space.h"
+	"tool.h"
+	"comm.h"
+
+1425811879 source:c:\users\123\desktop\繪圖\空間.cpp
+	<windows.h>
+	<stdio.h>
+	"space.h"
+	"tool.h"
+	"comm.h"
+
+1421950554 source:c:\users\123\desktop\繪圖\壢色.cpp
+
+1421052558 c:\users\123\desktop\繪圖\通用.h
+
+1421763329 c:\users\123\desktop\繪圖\comm.h
+
+1421076845 c:\users\123\desktop\繪圖\forwork.h
+
